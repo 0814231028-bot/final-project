@@ -12,6 +12,10 @@ h1 {
     padding: 20px;
 }
 
+h3 {
+    color: antiquewhite;
+}
+
 .navbar ul {
     background-color: rgb(213, 138, 150);
     padding: 10px;
@@ -39,5 +43,21 @@ h1 {
 .main {
     display: flex;
 }
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.card {
+    background-color: rgb(227, 129, 161);
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(205, 81, 81);
+    margin: 10px;
+    padding-left: 3px;
+}
+
 
 
