@@ -1,19 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sixtyfour&display=swap');
+
 body {
     background-color: pink;
+}
+
+img {
+    border-radius: 5px;
 }
 
 h1 {
     text-align: center;
     color: antiquewhite;
-    font-style: italic;
+    font-family: cursive;
     background-color: rgb(213, 138, 150);
     border-radius: 10px;
     border: 2px solid rgb(185, 66, 86);
     padding: 20px;
 }
 
+h2 {
+    color: antiquewhite;
+    font-family: fantasy;
+}
+
 h3 {
     color: antiquewhite;
+    font-style: italic;
 }
 
 .navbar ul {
@@ -50,7 +62,7 @@ h3 {
     justify-content: flex-end;
 }
 
-.card {
+.card-one {
     background-color: rgb(227, 129, 161);
     padding: 10px;
     border-radius: 5px;
@@ -58,6 +70,27 @@ h3 {
     margin: 10px;
     padding-left: 3px;
 }
+
+.card-two {
+    background-color: rgb(227, 129, 161);
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(205, 81, 81);
+    margin: 10px;
+    padding-left: 3px;
+}
+
+.card-one {
+    font-style: italic;
+    color: antiquewhite;
+}
+
+.card-two p {
+    font-style: italic;
+    color: antiquewhite;
+}
+
+
 
 
 
