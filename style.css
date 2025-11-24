@@ -6,6 +6,7 @@ body {
 
 img {
     border-radius: 5px;
+    height: 400px;
 }
 
 h1 {
@@ -90,7 +91,22 @@ h3 {
     color: antiquewhite;
 }
 
+.picture {
+    display: flex;
+    justify-content: flex-start;
+}
 
+.picturetwo {
+    display: flex;
+    justify-content: end;
+}
 
+.picture p {
+    margin: 20px;
+}
 
+.picturetwo p {
+    display: flex;
+    justify-content: flex-start;
+}
 
