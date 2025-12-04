@@ -79,6 +79,7 @@ ol {
     border: 2px solid rgb(205, 81, 81);
     margin: 10px;
     padding-left: 3px;
+    height: 300px;
 }
 
 
@@ -90,12 +91,27 @@ ol {
     border: 2px solid rgb(205, 81, 81);
     margin: 10px;
     padding-left: 3px;
+    height: 300px;
+}
+
+.card-two img {
+    position: fixed;
+    bottom: 48px;
+    right: 300px;
+    height: 300px;
 }
 
 .card-one {
     font-style: italic;
     color: antiquewhite;
     font-size: 20px;
+}
+
+.card-one img {
+    position: fixed;
+    top: 147px;
+    right: 300px;
+    height: 300px; 
 }
 
 .picture {
@@ -121,6 +137,11 @@ ol {
     height: 20px;
 }
 
+.picture p {
+    font-size: 23px;
+    color:antiquewhite;
+}
+
 .picturetwo p {
     font-size: 20px;
     display: flex;
@@ -134,5 +155,10 @@ ol {
     margin: 10px;
     padding: 3px;
     height: 20px;
+}
+
+.picturetwo p {
+    font-size: 23px;
+    color: antiquewhite;
 }
 
