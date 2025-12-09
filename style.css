@@ -62,7 +62,7 @@ ol {
 
 .navbar a:hover {
     background-color: rgb(155, 33, 73);
-    transition: all 0.7s ease;
+    transition: all 0.9s ease;
 }
 
 .cite {
@@ -115,7 +115,7 @@ ol {
 
 .source-two {
     position: fixed;
-    left: 25px;
+    right: 500px;
 }
 
 .link {
@@ -138,7 +138,7 @@ ol {
 
 .source {
     position: fixed;
-    left: 25px;
+    right: 500px;
 }
 
 .picture {
