@@ -67,15 +67,15 @@ ol {
 
 .cite {
     position: absolute;
-    bottom: 95px;
+    bottom: 160px;
     right: 101px;
 }
 
 .main img {
      position: absolute;
-     top: 300px;
-     right: 100px;
-     height: 450px;
+     top: 330px;
+     right: 40px;
+     height: 350px;
 }
 
 .main {
